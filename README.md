@@ -1,2 +1,2 @@
 # watcher
-log file system changes and logs to syslog way cool changed
+takes recursive md5 hashes for directory and compares to database for file changes
